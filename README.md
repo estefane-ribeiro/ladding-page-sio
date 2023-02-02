@@ -19,5 +19,5 @@ Esta página foi criada com html, css e js. É uma página simples que foi feita
 <img src="imgs/visualizacao.png">
 
 <p>
-Para uma melhor visualização: <a href="https://estefane-ribeiro.github.io/ladding-page-sio">ladding-page-sio</a>
+Para uma melhor visualização: <a href="https://estefane-ribeiro.github.io/ladding-page-sio" target="_blank>ladding-page-sio</a>
 </p>
